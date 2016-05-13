@@ -1,0 +1,19 @@
+{
+  "name": "d3-arc-diagram",
+  "authors": [
+    "Dean Poulin<dean.poulin@gmail.com>"
+  ],
+  "description": "A d3 plugin for rendering Arc Diagrams",
+  "main": "arcdiagram.js",
+  "moduleType": [],
+  "keywords": [
+    "d3",
+    "arcdiagram",
+    "plugin"
+  ],
+  "dependencies": {
+    "d3": "~3.5.16"
+  },
+  "license": "MIT",
+  "homepage": ""
+}
